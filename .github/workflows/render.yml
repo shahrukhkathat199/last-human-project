@@ -65,7 +65,7 @@ jobs:
         run: |
           npx remotion render src/index.ts LastHumanShort out/preview.mp4 \
             --gl=angle \
-            --concurrency=${{ github.event.inputs.concurrency }} \
+            --concurrency=2 \
             --crf=23 \
             --scale=0.5
 
