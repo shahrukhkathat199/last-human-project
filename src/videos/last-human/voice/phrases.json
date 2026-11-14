@@ -1,0 +1,442 @@
+[
+ {
+  "text": "Imagine every human on Earth suddenly disappears.",
+  "start": 0.03,
+  "end": 2.47,
+  "f0": 1,
+  "f1": 74,
+  "segments": [
+   0,
+   1
+  ]
+ },
+ {
+  "text": "Except you.",
+  "start": 2.75,
+  "end": 3.3,
+  "f0": 82,
+  "f1": 99,
+  "segments": [
+   1,
+   2
+  ]
+ },
+ {
+  "text": "At first,",
+  "start": 3.78,
+  "end": 4.159,
+  "f0": 113,
+  "f1": 125,
+  "segments": [
+   2,
+   3
+  ]
+ },
+ {
+  "text": "it sounds like paradise.",
+  "start": 4.159,
+  "end": 5.297,
+  "f0": 125,
+  "f1": 159,
+  "segments": [
+   2,
+   3
+  ]
+ },
+ {
+  "text": "Every mansion is yours.",
+  "start": 5.297,
+  "end": 6.623,
+  "f0": 159,
+  "f1": 199,
+  "segments": [
+   2,
+   3
+  ]
+ },
+ {
+  "text": "Every supercar is free.",
+  "start": 6.623,
+  "end": 8.14,
+  "f0": 199,
+  "f1": 244,
+  "segments": [
+   2,
+   3
+  ]
+ },
+ {
+  "text": "And nobody is around to tell you \"no\".",
+  "start": 8.39,
+  "end": 10.293,
+  "f0": 252,
+  "f1": 309,
+  "segments": [
+   3,
+   4
+  ]
+ },
+ {
+  "text": "You grab the keys to a Lamborghini and hit the open road.",
+  "start": 10.293,
+  "end": 13.06,
+  "f0": 309,
+  "f1": 392,
+  "segments": [
+   3,
+   4
+  ]
+ },
+ {
+  "text": "It's perfect.",
+  "start": 13.39,
+  "end": 13.864,
+  "f0": 402,
+  "f1": 416,
+  "segments": [
+   4,
+   5
+  ]
+ },
+ {
+  "text": "But three days later,",
+  "start": 13.864,
+  "end": 14.653,
+  "f0": 416,
+  "f1": 440,
+  "segments": [
+   4,
+   5
+  ]
+ },
+ {
+  "text": "the silence gets heavy.",
+  "start": 14.653,
+  "end": 15.6,
+  "f0": 440,
+  "f1": 468,
+  "segments": [
+   4,
+   5
+  ]
+ },
+ {
+  "text": "Then,",
+  "start": 15.78,
+  "end": 15.944,
+  "f0": 473,
+  "f1": 478,
+  "segments": [
+   5,
+   6
+  ]
+ },
+ {
+  "text": "the lights go out.",
+  "start": 15.944,
+  "end": 16.6,
+  "f0": 478,
+  "f1": 498,
+  "segments": [
+   5,
+   6
+  ]
+ },
+ {
+  "text": "Power plants have begun shutting down because there's nobody left to feed the machines.",
+  "start": 17.13,
+  "end": 20.23,
+  "f0": 514,
+  "f1": 607,
+  "segments": [
+   6,
+   7
+  ]
+ },
+ {
+  "text": "A week later,",
+  "start": 20.66,
+  "end": 21.402,
+  "f0": 620,
+  "f1": 642,
+  "segments": [
+   7,
+   8
+  ]
+ },
+ {
+  "text": "the taps run dry.",
+  "start": 21.402,
+  "end": 22.145,
+  "f0": 642,
+  "f1": 664,
+  "segments": [
+   7,
+   8
+  ]
+ },
+ {
+  "text": "Now you're collecting rainwater in a crystal bowl just to survive.",
+  "start": 22.145,
+  "end": 25.3,
+  "f0": 664,
+  "f1": 759,
+  "segments": [
+   7,
+   8
+  ]
+ },
+ {
+  "text": "See,",
+  "start": 25.77,
+  "end": 26.066,
+  "f0": 773,
+  "f1": 782,
+  "segments": [
+   8,
+   9
+  ]
+ },
+ {
+  "text": "a city is like a giant garden.",
+  "start": 26.066,
+  "end": 28.73,
+  "f0": 782,
+  "f1": 862,
+  "segments": [
+   8,
+   9
+  ]
+ },
+ {
+  "text": "We spend every second \"weeding\" it,",
+  "start": 29.09,
+  "end": 30.999,
+  "f0": 873,
+  "f1": 930,
+  "segments": [
+   9,
+   10
+  ]
+ },
+ {
+  "text": "fixing pipes,",
+  "start": 30.999,
+  "end": 31.572,
+  "f0": 930,
+  "f1": 947,
+  "segments": [
+   9,
+   10
+  ]
+ },
+ {
+  "text": "patching roads,",
+  "start": 31.572,
+  "end": 32.145,
+  "f0": 947,
+  "f1": 964,
+  "segments": [
+   9,
+   10
+  ]
+ },
+ {
+  "text": "and fighting back the wild.",
+  "start": 32.145,
+  "end": 33.29,
+  "f0": 964,
+  "f1": 999,
+  "segments": [
+   9,
+   10
+  ]
+ },
+ {
+  "text": "The moment we stop,",
+  "start": 33.79,
+  "end": 34.609,
+  "f0": 1014,
+  "f1": 1038,
+  "segments": [
+   10,
+   11
+  ]
+ },
+ {
+  "text": "nature doesn't hesitate.",
+  "start": 34.609,
+  "end": 35.591,
+  "f0": 1038,
+  "f1": 1068,
+  "segments": [
+   10,
+   11
+  ]
+ },
+ {
+  "text": "It takes it all back.",
+  "start": 35.591,
+  "end": 36.41,
+  "f0": 1068,
+  "f1": 1092,
+  "segments": [
+   10,
+   11
+  ]
+ },
+ {
+  "text": "After a few years,",
+  "start": 36.71,
+  "end": 37.324,
+  "f0": 1101,
+  "f1": 1120,
+  "segments": [
+   11,
+   12
+  ]
+ },
+ {
+  "text": "grass explodes through the cracks in the street.",
+  "start": 37.324,
+  "end": 38.43,
+  "f0": 1120,
+  "f1": 1153,
+  "segments": [
+   11,
+   12
+  ]
+ },
+ {
+  "text": "Dogs roam the empty avenues,",
+  "start": 38.88,
+  "end": 39.708,
+  "f0": 1166,
+  "f1": 1191,
+  "segments": [
+   12,
+   13
+  ]
+ },
+ {
+  "text": "and buildings begin to disappear under a blanket of green vines.",
+  "start": 39.708,
+  "end": 41.72,
+  "f0": 1191,
+  "f1": 1252,
+  "segments": [
+   12,
+   13
+  ]
+ },
+ {
+  "text": "Ten years later,",
+  "start": 42.15,
+  "end": 42.582,
+  "f0": 1264,
+  "f1": 1277,
+  "segments": [
+   13,
+   14
+  ]
+ },
+ {
+  "text": "you're walking through what used to be New York City.",
+  "start": 42.582,
+  "end": 43.88,
+  "f0": 1277,
+  "f1": 1316,
+  "segments": [
+   13,
+   14
+  ]
+ },
+ {
+  "text": "Trees are growing through the sidewalks,",
+  "start": 44.2,
+  "end": 45.422,
+  "f0": 1326,
+  "f1": 1363,
+  "segments": [
+   14,
+   15
+  ]
+ },
+ {
+  "text": "and rusted cars look like mossy boulders in a forest.",
+  "start": 45.422,
+  "end": 47.322,
+  "f0": 1363,
+  "f1": 1420,
+  "segments": [
+   14,
+   15
+  ]
+ },
+ {
+  "text": "Then you hear a low growl from inside an abandoned supermarket.",
+  "start": 47.322,
+  "end": 49.63,
+  "f0": 1420,
+  "f1": 1489,
+  "segments": [
+   14,
+   15
+  ]
+ },
+ {
+  "text": "You turn around,",
+  "start": 50.08,
+  "end": 50.89,
+  "f0": 1502,
+  "f1": 1527,
+  "segments": [
+   15,
+   16
+  ]
+ },
+ {
+  "text": "and see a pack of wolves watching you.",
+  "start": 51.32,
+  "end": 52.49,
+  "f0": 1540,
+  "f1": 1575,
+  "segments": [
+   16,
+   17
+  ]
+ },
+ {
+  "text": "Because without us,",
+  "start": 52.97,
+  "end": 54.678,
+  "f0": 1589,
+  "f1": 1640,
+  "segments": [
+   17,
+   18
+  ]
+ },
+ {
+  "text": "the city belongs to them.",
+  "start": 54.678,
+  "end": 57.07,
+  "f0": 1640,
+  "f1": 1712,
+  "segments": [
+   17,
+   18
+  ]
+ },
+ {
+  "text": "And you're no longer the most powerful thing in town.",
+  "start": 57.52,
+  "end": 60.17,
+  "f0": 1726,
+  "f1": 1805,
+  "segments": [
+   18,
+   19
+  ]
+ }
+]
