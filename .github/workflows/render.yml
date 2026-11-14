@@ -55,7 +55,7 @@ jobs:
             ffmpeg
 
       - name: Install npm dependencies
-        run: npm ci
+        run: npm ci --legacy-peer-deps
 
       - name: Build project
         run: npm run build
