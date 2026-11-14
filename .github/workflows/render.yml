@@ -52,7 +52,8 @@ jobs:
             libxrandr2 \
             libgbm1 \
             libasound2t64 \
-            ffmpeg
+            ffmpeg \
+            xvfb
 
       - name: Install npm dependencies
         run: npm ci --legacy-peer-deps
@@ -63,7 +64,8 @@ jobs:
       - name: Render video (preview)
         if: github.event.inputs.render_scale == '0.5'
         run: |
-          npx remotion render src/index.ts LastHumanShort out/preview.mp4 \
+          xvfb-run -a -s "-screen 0 1920x1080x24" \
+            npx remotion render src/index.ts LastHumanShort out/preview.mp4 \
             --gl=angle \
             --concurrency=2 \
             --crf=23 \
